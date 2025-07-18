@@ -1,0 +1,22 @@
+lib/
+├── main.dart
+├── screens/
+│   ├── home_screen.dart
+│   ├── diary_screen.dart
+│   ├── chatbot_screen.dart
+│   ├── clinic_finder_screen.dart
+├── widgets/
+│   ├── mood_tracker.dart
+│   ├── vitals_card.dart
+│   ├── medicine_reminder_card.dart
+├── models/
+│   ├── mood_entry.dart
+│   ├── vital_sign.dart
+│   ├── clinic.dart
+├── services/
+│   ├── firestore_service.dart
+│   ├── chatbot_service.dart
+│   ├── location_service.dart
+├── utils/
+│   ├── constants.dart
+│   └── notification_helper.dart
